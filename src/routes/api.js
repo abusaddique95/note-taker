@@ -1,4 +1,6 @@
-const { router } = require("express");
+const { Router } = require("express");
+
+const notes = require("./notes");
 
 const router = Router();
 

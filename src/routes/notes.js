@@ -1,8 +1,6 @@
-const { router } = require("express");
+const { Router } = require("express");
 
-const { getNotes } = require("../controllers/notes");
-const { deleteNote } = require("../controllers/notes");
-const { createNote } = require("../controllers/notes");
+const { getNotes, deleteNote, createNote } = require("../controllers/notes");
 
 const router = Router();
 
