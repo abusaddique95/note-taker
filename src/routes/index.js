@@ -1,7 +1,8 @@
 const { router } = require("express");
 
 const views = require("./views");
-const views = require("./api");
+const api = require("./api");
+const notes = require("./notes");
 
 const router = Router();
 
