@@ -52,7 +52,7 @@ Visit my GitHub profile [here](https://github.com/abusaddique95)
 
 ## Screenshots
 
-![screenshot]("./public/assets/screenshots/homepage.png")
-![screenshot]("./public/assets/screenshots/note-page.png")
-![screenshot]("./public/assets/screenshots/save-note.png")
-![screenshot]("./public/assets/screenshots/saved-note.png")
+![screenshot](./public/assets/screenshots/homepage.png)
+![screenshot](./public/assets/screenshots/note-page.png)
+![screenshot](./public/assets/screenshots/save-note.png)
+![screenshot](./public/assets/screenshots/saved-note.png)
