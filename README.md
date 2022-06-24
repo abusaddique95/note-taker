@@ -8,6 +8,7 @@
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Contact me](#contact-me)
+- [Screenshots](#screenshots)
 
 ## Deployed Heroku link
 
@@ -39,12 +40,19 @@ npm run start
 
 ## Technologies
 
-Node JS
-HTML, CSS, JS front end
-Express
+- Node JS
+- HTML, CSS, JS (front end)
+- Express
 
 ## Contact me
 
 If you have any further questions or would like to contact me my email is: abusaddique95@live.com
 
 Visit my GitHub profile [here](https://github.com/abusaddique95)
+
+## Screenshots
+
+![screenshot]("./public/assets/screenshots/homepage.png")
+![screenshot]("./public/assets/screenshots/note-page.png")
+![screenshot]("./public/assets/screenshots/save-note.png")
+![screenshot]("./public/assets/screenshots/saved-note.png")

@@ -29,7 +29,6 @@ const createNote = (req, res) => {
   const { title, text } = req.body;
 
   const id = uuidv4();
-  rs;
   const note = {
     id,
     title,
