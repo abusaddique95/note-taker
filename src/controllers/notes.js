@@ -13,12 +13,12 @@ const deleteNote = (req, res) => {
   const { id } = req.params;
 
   // get all notes
-  const notesInfo = readDataFromFile();
+  const notesInfo = readDataFromFile("db");
 
   // remove note from notes
   const filteredNotes = notesInfo.filter((note) => note.id !== id);
 
-  writeDataToFile(filteredNotes);
+  writeDataToFile("db", filteredNotes);
 
   return res.json({
     message: "Successfully deleted note",
@@ -29,7 +29,7 @@ const createNote = (req, res) => {
   const { title, text } = req.body;
 
   const id = uuidv4();
-
+  rs;
   const note = {
     id,
     title,
