@@ -3,11 +3,10 @@ const express = require("express");
 const path = require("path");
 
 const routes = require("./routes");
+const PORT = process.env.PORT || 4000;
 
 const init = async () => {
   try {
-    const PORT = process.env.PORT || 4000;
-
     const app = express();
 
     // add middleware
