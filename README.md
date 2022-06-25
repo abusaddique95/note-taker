@@ -13,6 +13,8 @@
 
 ## Deployed Heroku link
 
+[Heroku link](https://note-taker-abu.herokuapp.com/)
+
 ## Description
 
 This application will allow users to create and delete notes to make life and work schedule a little easier.
