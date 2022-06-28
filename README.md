@@ -13,7 +13,7 @@
 
 ## Deployed Heroku link
 
-[Heroku link](https://note-taker-abu.herokuapp.com/)
+[Heroku link](https://serene-anchorage-90578.herokuapp.com/)
 
 ## Description
 
